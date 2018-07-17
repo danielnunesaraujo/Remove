@@ -1,0 +1,55 @@
+body{
+    font-family: sans-serif;
+    margin: 0;
+}
+nav{
+    background-color: lightgreen;
+    justify-content: space-around;
+    align-items: center;
+    padding-left: 0;
+    display: flex;
+}
+.nav .div {
+    justify-content: space-around;
+    align-items: left;
+    padding-left: 10px;
+
+
+}
+
+.texto {
+    align-items: center;
+    text-align: right;
+    justify-content: space-around;
+    display: flex;
+    background-color: lightgreen;
+
+
+}
+section{
+    background-color: lightgreen;
+    margin: 0;
+    
+}
+footer{
+    background-color: black;
+    color: aqua;
+}
+img {
+    width:100%;
+}
+
+ul {
+    display: flex;
+    padding: 26px;
+}
+li{
+    margin-right: 24px; 
+}
+p{
+    margin: 0;
+}
+h1{
+    margin: 0;
+    padding-top: 10px;
+}
